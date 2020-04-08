@@ -1,0 +1,31 @@
+.titlee{
+display: flex;
+border-bottom: 1px solid lightgreen;
+margin-bottom: 5px;
+margin-right: 5px;
+padding-bottom: 5px;
+}
+
+.namee{
+    color:black;
+    font-weight: 400;
+    margin-left: 10px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.main-button{
+    background-color:greenyellow;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px greenyellow;
+}
+.main-button:hover{
+    color: black;
+    font-size: 115%;
+    cursor: pointer;
+}

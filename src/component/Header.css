@@ -1,0 +1,33 @@
+.title{
+    background-color: black ;
+    height: 110px;
+    width: 50%;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 100px;
+    margin-left: 20px;
+}
+.title h1 {
+    color: greenyellow;
+    text-align: center;
+    padding-top: 30px;
+}
+.navs a{
+    text-decoration: none;
+    color: black;
+    margin-right: 5px;
+    padding : 5px ;
+    
+}
+.navs{
+    background-color : greenyellow;
+    margin-top: 5px;
+    width: 50%;
+    line-height: 50px;
+    font-size: 20px;
+    border-radius:100px ;
+    margin-left: 20px;
+}
+nav a:hover{
+    color:blue;
+    font-size: 115%
+}
